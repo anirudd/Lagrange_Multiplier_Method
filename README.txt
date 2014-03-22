@@ -4,7 +4,7 @@ This project implements Lagrange Mutiplier method for solving a general non-line
 
 The code was implemented using a licensed version of R2012b Matlab software.
 
-A detailed explanation about how the code can be executed, the inputs required along with their formats and the explanation about the output obtained has been provided in the Mathematical Programming Project-Read -me.docx file.
+A detailed explanation about how the code can be executed, the inputs required along with their formats and the explanation about the output obtained has been provided in the "Mathematical Programming Project-Read -me.docx" file.
 
 
 Aniruddh Ramrakhyani
